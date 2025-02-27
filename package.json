@@ -1,8 +1,8 @@
 {
   "name": "org.opencpi.unitygltf",
   "displayName": "UnityGLTF",
-  "version": "2.17.0",
-  "unity": "6000.0",
+  "version": "2.18.0",
+  "unity": "2022.3",
   "description": "Import and export glTF 2.0 assets, both in the editor and at runtime. Excellent support for animations, materials, extensions. Can be extended with plugins for both import and export use cases.",
   "repository": {
     "url": "https://github.com/CP-Island-Localhost-Server/UnityGLTF.git"
@@ -19,7 +19,7 @@
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.unity.modules.imageconversion": "1.0.0",
-    "com.unity.shadergraph": "17.0.3",
+    "com.unity.shadergraph": "14.0.12",
     "com.unity.mathematics": "1.3.2"
   },
   "samples": [
