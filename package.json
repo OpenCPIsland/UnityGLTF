@@ -1,11 +1,11 @@
 {
-  "name": "org.khronos.unitygltf",
+  "name": "org.opencpi.unitygltf",
   "displayName": "UnityGLTF",
-  "version": "2.17.3", 
-  "unity": "2021.3",
+  "version": "2.25.0",
+  "unity": "6000.0",
   "description": "Import and export glTF 2.0 assets, both in the editor and at runtime. Excellent support for animations, materials, extensions. Can be extended with plugins for both import and export use cases.",
   "repository": {
-    "url": "https://github.com/KhronosGroup/UnityGLTF.git"
+    "url": "https://github.com/OpenCPIsland/UnityGLTF.git"
   },
   "keywords": [
     "gltf",
@@ -15,12 +15,12 @@
     "import",
     "export"
   ],
-  "author": "Khronos Group",
+  "author": "OpenCPI (Forked from: Khronos Group)",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "2.0.0",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.unity.modules.imageconversion": "1.0.0",
-    "com.unity.shadergraph": "10.0.0",
-    "com.unity.mathematics": "1.0.0"
+    "com.unity.shadergraph": "17.0.4",
+    "com.unity.mathematics": "1.3.2"
   },
   "samples": [
   ]
